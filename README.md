@@ -1,22 +1,22 @@
 
 ![Cryptocurrency Exchange Script](cryptocurrency_Exchange_script.png?raw=true "Cryptocurrency Exchange Script")
 
-#[Cryptocurrency exchange script](https://codono.com)
+#[Cryptocurrency exchange script](https://api.whatsapp.com/send?phone=919500575285&text=Hi%20there!%20I%20am%20looking%20for%20your%20Services.%20Can%20you%20send%20me%20the%20Product%20Demo)
  Codono supports Auto detection of deposits, Each user is assigned with Unique deposit per coin. Deposits are detected instantly and credited to users. Withdrawals are automatic and manual approval too. Binance clone is used to develop cryptocurrency exchanges so as Binance, Huobi, and coin base. The turnkey crypto trading script provides similar crypto trading features so you can start crypto exchange within a week.
 
 ![Binance clone](cryptocurrency_Exchange_script_binance_clone_codono.png?raw=true "Binance clone")
 
-#[Binance clone](https://codono.com)
+#[Binance clone](https://api.whatsapp.com/send?phone=919500575285&text=Hi%20there!%20I%20am%20looking%20for%20your%20Services.%20Can%20you%20send%20me%20the%20Product%20Demo)
 The solution for the trading of assets such as cryptocurrencies, tokens, fiats other assets. Script has market-making or liquidity options provided. Codono supports All fiat currencies. so you can create a market Between Fiat-Crypto, Fiat-Fiat, and Crypto-Crypto. Moreover it supports almost any Coin/Token, ie Bitcoin[BTC,LTC,Doge] , Tron [Trc10+TRC20]*, Ethereum Based[ ETH -ERC20, BNB-BEP20, FTM, SOL, Private Networks], XRP, XMR, Waves ,Coinpayments, and many more.
 
 #[Crypto Nodes Setup Guide](https://github.com/turndealer/cryoto-nodes)
 
 ![Cryptocurrency Exchange software](Download-Cryptocurrency-Exchange-Script-Cryptocurrency-Exchange-Software.png?raw=true "Cryptocurrency Exchange software")
  
-#[Cryptocurrency exchange Software](https://codono.com/download/)
+#[Cryptocurrency exchange Software](https://api.whatsapp.com/send?phone=919500575285&text=Hi%20there!%20I%20am%20looking%20for%20your%20Services.%20Can%20you%20send%20me%20the%20Product%20Demo)
 Codono is developing a Binance clone for 6 years suitable for small to enterprise scale firms. You can get cryptocurrency exchange development services like Web version or mobile app deployment to allow users to trade easily.
 
-#[Exchange Script](https://codono.com/features/)
+#[Exchange Script](https://api.whatsapp.com/send?phone=919500575285&text=Hi%20there!%20I%20am%20looking%20for%20your%20Services.%20Can%20you%20send%20me%20the%20Product%20Demo)
 User to User orders matching using Orderbook and Trading Engine allows instant trading of assets. Dex module Allows users to Buy your Tokens using their metamask/trust wallet. They send/receive on the same automatically. Users can Buy - sell crypto from customers using the OTC module.
 [ TRC20 BEP20 ERC20 BTC WAVES DOGE ]
 
